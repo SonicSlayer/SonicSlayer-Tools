@@ -29,9 +29,6 @@ If you want to run from source:
 
 1. Download the latest `SonicSlayer_Tools.exe` from the [Releases](https://github.com/SonicSlayer/SonicSlayer-Tools/releases) page.
 2. Place the following files in the same folder as the executable (optional but recommended for full functionality):
-   - `logo.png` – main application logo (width up to 450px)
-   - `icon.png`, `icon2.png`, `icon3.png`, `icon4.png` – game card icons
-   - `toolsico.ico` – window icon
    - `cowabunga64.exe` – for Cowabunga functionality
    - `BakesaleExtractor.exe` – for Bakesale Extractor functionality
 3. Run `SonicSlayer_Tools.exe`.
